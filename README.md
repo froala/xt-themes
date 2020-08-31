@@ -4,14 +4,8 @@ This is the themes repository for FroalaCharts.
 
 ## List of themes
 
- - fusion
  - candy
- - gammel
- - umber
- - carbon
- - fint
- - ocean
- - zune
+ - froala
 
 ## Repository organization
 
@@ -22,7 +16,7 @@ This is the themes repository for FroalaCharts.
 
 ## Theme naming conventions
 
-Each theme name is a lowercase word. The file name is in the format `froalacharts.theme.<themename>.js`. So the file name for the `carbon` theme is `froalacharts.theme.carbon.js`.
+Each theme name is a lowercase word. The file name is in the format `froalacharts.theme.<themename>.js`. So the file name for the `candy` theme is `froalacharts.theme.candy.js`.
 
 # Developing themes
 
@@ -39,7 +33,7 @@ This repository uses [Git Flow](http://nvie.com/posts/a-successful-git-branching
 
 ## Creating a new theme
 
-A boilerplate theme is provided at `develop/src/froalacharts.theme.boilerplate.js`. You can use that as your base and create a new file in `develop/src` for your new theme using the theme naming convention mentioned above.
+A candy theme is provided at `develop/src/froalacharts.theme.candy.js`. You can use that as your base and create a new file in `develop/src` for your new theme using the theme naming convention mentioned above.
 
 ## Building themes
 

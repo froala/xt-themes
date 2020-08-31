@@ -68,67 +68,33 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 13);
+/******/ 	return __webpack_require__(__webpack_require__.s = 7);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 13:
+/***/ 7:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_froala__ = __webpack_require__(14);
-
-
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_froala__ = __webpack_require__(8);
 FroalaCharts.addDep(__WEBPACK_IMPORTED_MODULE_0__src_froala__["a" /* default */]);
 
 /***/ }),
 
-/***/ 14:
+/***/ 8:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /**
  * Froala theme
- */
-var themeObject = {
-    name: 'froala',
-    theme: {
-        base: {
-            chart: {
-                paletteColors: "#007BFF, #FFC107, #DC3545, #28A745, #6C757D, #6F42C1, #FD7E14, #17A2B8",
-                canvasBorderColor: '#ffffff',
-                bgColor: "#ffffff",
-                // base font styling
-                baseFontColor: "#8892A0",
-                baseFontSize: '22.4',
-                baseFont: 'Lato',
-                // caption styling
-                captionFontColor: "#444444",
-                captionFontSize: '44',
-                captionFont: 'Lato',
-                //subcaption styling
-                subCaptionFontColor: "#444444",
-                subCaptionFontSize: '32',
-                subCaptionFont: 'Lato',
-                // tooltip styling
-                toolTipBgColor: '#222222',
-                toolTipColor: '#FFFFFF',
-                toolTipBorderColor: '#000000',
-                // axis line styling
-                xAxisLineColor: '#000000',
-                yAxisLineColor: '#000000'
-            }
-        }
-    }
-};
-
-/* harmony default export */ __webpack_exports__["a"] = ({
-    extension: themeObject,
-    name: "froalaTheme",
-    type: "theme"
-});
+ */var themeObject={name:'froala',theme:{base:{chart:{paletteColors:'#007BFF, #FFC107, #DC3545, #28A745, #6C757D, #6F42C1, #FD7E14, #17A2B8',canvasBorderColor:'#ffffff',bgColor:'#ffffff',// base font styling
+baseFontColor:'#8892A0',baseFontSize:'22.4',baseFont:'Lato',// caption styling
+captionFontColor:'#444444',captionFontSize:'44',captionFont:'Lato',//subcaption styling
+subCaptionFontColor:'#444444',subCaptionFontSize:'32',subCaptionFont:'Lato',// tooltip styling
+toolTipBgColor:'#222222',toolTipColor:'#FFFFFF',toolTipBorderColor:'#000000',// axis line styling
+xAxisLineColor:'#000000',yAxisLineColor:'#000000'}}}};/* harmony default export */ __webpack_exports__["a"] = ({extension:themeObject,name:'froalaTheme',type:'theme'});
 
 /***/ })
 
