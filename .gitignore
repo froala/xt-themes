@@ -30,7 +30,7 @@ Thumbs.db
 .jshintrc
 
 # - Prevent CI output files from being Added
-/out/
+/develop/ci/
 
 # - Prevent diff backups from SourceTree from showing as commit.
 *.BACKUP.*

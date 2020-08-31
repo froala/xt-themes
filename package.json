@@ -1,10 +1,10 @@
 {
   "name": "xt-themes",
-  "description": "Visualisation Themes for FusionCharts XT",
+  "description": "Visualisation Themes for FroalaCharts XT",
   "homepage": "http://www.fusioncharts.com/",
   "version": "0.0.5",
   "license": "MIT",
-  "author": "FusionCharts, Inc.  <mail@labs.fusioncharts.com>",
+  "author": "Idera, Inc.  <support@froala.com>",
   "keywords": [
     "fusioncharts",
     "charts",
@@ -15,7 +15,7 @@
   "preferGlobal": false,
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/fusioncharts/xt-themes.git"
+    "url": "https://github.com/froala/xt-themes.git"
   },
   "dependencies": {},
   "devDependencies": {
