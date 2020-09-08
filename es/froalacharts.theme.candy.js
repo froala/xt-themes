@@ -30,9 +30,9 @@ styleInject(css);
 
 /*
  Candy Theme v0.6
- FusionCharts JavaScript Library
+ FroalaCharts JavaScript Library
 
- Copyright FusionCharts, Inc.
+ Copyright FroalaCharts, Inc.
  License Information at <http://www.fusioncharts.com/license>
 */
 /* jshint ignore:end */

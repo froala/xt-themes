@@ -8,7 +8,7 @@ module.exports = {
   },
   globals: {
     HAS_MAPS: true,
-    FusionCharts: true,
+    FroalaCharts: true,
     IS_IE8_BUILD: true
   },
   extends: [

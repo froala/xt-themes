@@ -1,12 +1,12 @@
 {
   "name": "xt-themes",
-  "description": "Visualisation Themes for FroalaCharts XT",
-  "homepage": "http://www.fusioncharts.com/",
-  "version": "0.0.5",
+  "description": "Visualisation Themes for FroalaCharts",
+  "homepage": "http://www.froala.com/",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Idera, Inc.  <support@froala.com>",
   "keywords": [
-    "fusioncharts",
+    "froalacharts",
     "charts",
     "gauges",
     "maps",
@@ -102,7 +102,7 @@
     "node": true,
     "onevar": true,
     "globals": {
-      "FusionCharts": true,
+      "FroalaCharts": true,
       "window": true
     }
   }

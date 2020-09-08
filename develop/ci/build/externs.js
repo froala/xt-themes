@@ -1,1 +1,1 @@
-var FusionCharts = function () {};
+var FroalaCharts = function () {};

@@ -95,9 +95,9 @@ gulp.task('add-wrapper', function () {
     if (typeof module === 'object' && typeof module.exports !== "undefined") {
         module.exports = factory;
     } else {
-        factory(FusionCharts);
+        factory(FroalaCharts);
     }
-}(function (FusionCharts) {
+}(function (FroalaCharts) {
 <%= contents %>
 }));
         `))
