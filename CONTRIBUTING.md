@@ -27,11 +27,11 @@ Make sure you have already set up your development environment. From the root di
 
 ## How to commit and send pull requests?
 
-This project follows regular git-flow. Refer to standard FusionCharts guidelines in `CONTRIBUTING.md` of `xt-edge` for details.
+This project follows regular git-flow. Refer to standard FroalaCharts guidelines in `CONTRIBUTING.md` of `xt-edge` for details.
 
 ## How to create a new theme?
 
-1. Copy `develop/src/fusioncharts.theme.boilerplate.js` to a new file in the same folder, replacing `boilerplate` with your choice of theme name.
+1. Copy `develop/src/froalacharts.theme.candy.js` to a new file in the same folder, replacing `boilerplate` with your choice of theme name.
 2. Edit your new theme file.
 
 ## How to release a version?

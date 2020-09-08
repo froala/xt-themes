@@ -4,8 +4,8 @@ This is the themes repository for FroalaCharts.
 
 ## List of themes
 
- - candy
  - froala
+ - candy
 
 ## Repository organization
 

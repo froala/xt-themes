@@ -89,9 +89,9 @@ FroalaCharts.addDep(__WEBPACK_IMPORTED_MODULE_0__src_candy__["a" /* default */])
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__fusioncharts_theme_candy_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__fusioncharts_theme_candy_css__);
 /*
  Candy Theme v0.6
- FusionCharts JavaScript Library
+ FroalaCharts JavaScript Library
 
- Copyright FusionCharts, Inc.
+ Copyright FroalaCharts, Inc.
  License Information at <http://www.fusioncharts.com/license>
 *//* jshint ignore:start *//* jshint ignore:end */var themeObject={name:"candy",theme:{base:{chart:{// plot customization
 usePlotGradientColor:"0",showPlotBorder:"0",paletteColors:"#36B5D8, #F0DC46, #F066AC, #6EC85A, #6E80CA, #E09653, #E1D7AD, #61C8C8, #EBE4F4, #E64141",showShadow:"0",// hover effects
