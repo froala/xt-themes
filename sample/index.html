@@ -8,16 +8,12 @@
   </head>
   <body>
     <div id="chart-container"></div>
-    <script src="./assets/fusioncharts.js"></script>
-    <script src="./assets/fusioncharts.charts.js"></script>
-    <script src="fusioncharts.theme.boilerplate.js"></script>
-    <script src="fusioncharts.theme.carbon.js"></script>
-    <script src="fusioncharts.theme.fint.js"></script>
-    <script src="fusioncharts.theme.ocean.js"></script>
-    <script src="fusioncharts.theme.zune.js"></script>
+    <script src="./assets/froalacharts.js"></script>
+    <script src="../themes/min/froalacharts.theme.candy.js"></script>
+    <script src="../themes/min/froalacharts.theme.froala.js"></script>
     <script>
-      let chart = new FusionCharts({
-        "type": "column2d",
+      let chart = new FroalaCharts({
+        "type": "pie",
         "renderAt": "chart-container",
         "width": "500",
         "height": "300",
