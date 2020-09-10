@@ -648,8 +648,8 @@ FroalaCharts.addDep(__WEBPACK_IMPORTED_MODULE_0__src_candy__["a" /* default */])
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__fusioncharts_theme_candy_css__ = __webpack_require__(5);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__fusioncharts_theme_candy_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__fusioncharts_theme_candy_css__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__froalacharts_theme_candy_css__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__froalacharts_theme_candy_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__froalacharts_theme_candy_css__);
 /*
  Candy Theme v0.6
  FroalaCharts JavaScript Library
@@ -802,8 +802,8 @@ var update = __webpack_require__(1)(content, options);
 if(content.locals) module.exports = content.locals;
 
 if(false) {
-	module.hot.accept("!!../../../node_modules/css-loader/index.js!./fusioncharts.theme.candy.css", function() {
-		var newContent = require("!!../../../node_modules/css-loader/index.js!./fusioncharts.theme.candy.css");
+	module.hot.accept("!!../../../node_modules/css-loader/index.js!./froalacharts.theme.candy.css", function() {
+		var newContent = require("!!../../../node_modules/css-loader/index.js!./froalacharts.theme.candy.css");
 
 		if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 
