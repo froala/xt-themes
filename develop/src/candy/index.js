@@ -6,7 +6,7 @@
  License Information at <http://www.fusioncharts.com/license>
 */
 /* jshint ignore:start */
-import "./fusioncharts.theme.candy.css";
+import "./froalacharts.theme.candy.css";
 /* jshint ignore:end */
 var themeObject = {
   name: "candy",
