@@ -3,7 +3,7 @@
  FroalaCharts JavaScript Library
 
  Copyright FroalaCharts, Inc.
- License Information at <http://www.fusioncharts.com/license>
+ License Information at <https://www.ideracorp.com/legal/Froala#tabs-2>
 */
 /* jshint ignore:start */
 import "./froalacharts.theme.candy.css";
