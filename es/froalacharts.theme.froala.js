@@ -149,7 +149,6 @@ var themeObject = {
         // area
         area: {
                 chart: {
-                drawCrossLine: "1",
                 showLegend: "1",
                 legendIconSides: "1",
                 drawCrossLine: 1,
@@ -160,7 +159,6 @@ var themeObject = {
         line: {
             chart: {
                 lineThickness: 2,
-                drawCrossLine: "1",
                 showLegend: "1",
                 legendIconSides: "1",
                 drawCrossLine: 1,
@@ -184,7 +182,6 @@ var themeObject = {
         // stackedarea
         stackedarea: {
             chart: {
-                drawCrossLine: "1",
                 showLegend: "1",
                 legendIconSides: "1",
                 drawCrossLine: 1,
@@ -274,7 +271,6 @@ var themeObject = {
         heatmap: {
             chart: {
                 showPlotBorder: "1",
-                plotBorderAlpha: "100",
                 plotBorderThickness: "0.5",
                 plotBorderColor: "#000000",
                 plotBorderAlpha: 10,
@@ -303,7 +299,6 @@ var themeObject = {
                 nodeLabelFontSize: 14,
                 nodeLabelPosition: "inside",
                 nodeHoverAlpha: 65,
-                legendPosition: "bottom",
                 linkColor: "source",
                 linkHoverAlpha: 65,
                 linkAlpha: 40,
